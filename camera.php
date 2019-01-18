@@ -1,5 +1,3 @@
-
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -15,7 +13,7 @@
                     <img id="nose" src="http://localhost:8888/cNYvideo/cartoon-pig-nose.png">
             </div>
             <div class='video_container'>
-                <video id="video" width="640" height="480" autoplay></video>
+                <video id="video" width="640" height="480" autoplay='true' muted='muted'></video>
             </div>
 
             <div class="canvas_container">
